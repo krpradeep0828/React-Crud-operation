@@ -1,0 +1,100 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.head{
+  padding: 2% 5%;
+  background-color: #404040;
+  color: white;
+}
+.title{
+  color: white;
+  font-size: 32px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.row{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 1% 5%;
+}
+.nav{
+  width: 19%;
+  height: 80vh;
+}
+.nav ul{
+
+}
+.nav ul li{
+  list-style: none;
+  background-color: #404040;
+  margin-bottom: 1vh;
+}
+.nav ul li a{
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 5% 5%;
+}
+.active{
+  background-color: royalblue;
+}
+.mid{
+  width: 80%;
+  border: 1px solid black;
+}
+.tab{
+  padding: 1%;
+  background-color: tomato;
+  color: white;
+}
+.banner{
+  width: 100%;
+}
+
+
+.form{
+  background: yellowgreen;
+  height: 100vh;
+  padding: 100px 200px;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.form-lab{
+  display: flex;
+  height: 100vh;
+  padding: 10px 20px;
+}
+.row-left{
+  height: 400px;
+  width: 500px;
+  padding: 30px 20px;
+  border: 2px solid red;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 10px;
+}
+.row-left input{
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+}
+.row-right{
+  
+  height: 400px;
+  width: 600px;
+  padding: 20px 10px;
+  border: 2px solid yellow;
+  border-radius: 5px;
+  box-shadow: 5px 5px 10px black,5px 5px 10px black;
+}
+.row-right h1{
+  display: block;
+  margin: 2px;
+  padding: 15px;
+} */

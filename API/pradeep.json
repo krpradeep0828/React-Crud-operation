@@ -1,0 +1,39 @@
+{
+    "pradeep":[
+        {
+            "id":1,
+            "name":"pradeep",
+            "email":"pra@gmail.com",
+            "mobile":"9616791032",
+            "course":"Reactjs"
+        },
+        {
+            "id":2,
+            "name":"Pankaj Sir",
+            "email":"punit@gmail.com",
+            "mobile":"9616791090",
+            "course":"Reactjs"
+        },
+        {
+            "id":3,
+            "name":"Dhiraj",
+            "email":"dhir@gmail.com",
+            "mobile":"9616791010",
+            "course":"Reactjs"
+        },
+        {
+            "id":4,
+            "name":"sarvejeet",
+            "email":"sar@gmail.com",
+            "mobile":"9616791042",
+            "course":"Reactjs"
+        },
+        {
+            "id":5,
+            "name":"rishab",
+            "email":"rish@gmail.com",
+            "mobile":"9616791932",
+            "course":"Reactjs"
+        }
+    ]
+}
